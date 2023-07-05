@@ -8,6 +8,14 @@ This project is a binary classification task that involves training neural netwo
 - Course: CS 540 - Intro to Artificial Intelligence
 - University: UW Madison
 
+## Usage
+To use this project, follow these steps:
+
+- Ensure you have Python and the required dependencies (NumPy and Pandas) installed.
+- Download the "mnist_train.csv" file containing the MNIST dataset from here https://pjreddie.com/projects/mnist-in-csv/
+- Clone or download this project from GitHub.
+- Place the "mnist_train.csv" file in the project directory.
+
 ## p1.py
 
 ### Description
